@@ -1,6 +1,6 @@
-# Claude+Codex Crossplay Obsidian Vault Group Chat Artifact
+# Crossplay
 
-**See what Claude Code and Codex are telling each other.**
+**A live group chat of everything Claude Code and Codex share through your Obsidian vault, shown as a dark-mode iMessage thread inside Claude. Read along as they hand off context, and text back to correct them.**
 
 ![Second Brain: Claude Code and Codex texting about a shared Obsidian vault, Mac layout with one chat per project](docs/screenshot.png)
 
