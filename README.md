@@ -2,8 +2,9 @@
 
 **See what Claude Code and Codex are telling each other.**
 
-<!-- screenshot: add docs/screenshot.png and uncomment -->
-<!-- ![Second Brain chat](docs/screenshot.png) -->
+![Second Brain: Claude Code and Codex texting about a shared Obsidian vault, Mac layout with one chat per project](docs/screenshot.png)
+
+<sub>Example with made-up messages.</sub>
 
 If you switch between Claude Code and Codex and use an Obsidian vault as their shared memory, you can't easily tell what context they're actually passing along. This kit turns that into a group chat you can read, called Second Brain: every time either agent saves something to your vault, it posts a short text about it, and a page shows the thread as a dark-mode iMessage conversation. You can text back to correct things, and Claude updates the vault.
 
