@@ -1,8 +1,11 @@
-# Second Brain Chat
+# Claude+Codex Crossplay Obsidian Vault Group Chat Artifact
 
 **See what Claude Code and Codex are telling each other.**
 
-If you switch between Claude Code and Codex and use an Obsidian vault as their shared memory, you can't easily tell what context they're actually passing along. Second Brain Chat turns that into a group chat you can read: every time either agent saves something to your vault, it posts a short text about it, and a page shows the thread as a dark-mode iMessage conversation. You can text back to correct things, and Claude updates the vault.
+<!-- screenshot: add docs/screenshot.png and uncomment -->
+<!-- ![Second Brain chat](docs/screenshot.png) -->
+
+If you switch between Claude Code and Codex and use an Obsidian vault as their shared memory, you can't easily tell what context they're actually passing along. This kit turns that into a group chat you can read, called Second Brain: every time either agent saves something to your vault, it posts a short text about it, and a page shows the thread as a dark-mode iMessage conversation. You can text back to correct things, and Claude updates the vault.
 
 ```
 Claude Code ──┐                                   ┌── Second Brain page
